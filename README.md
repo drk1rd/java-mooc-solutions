@@ -9,3 +9,5 @@ solutions to https://java-programming.mooc.fi
 | 2    | RepeatingBreakingAndRemembering |   |   |   |   |   |   |   |   |
 | 2    | StarSign                        |   |   |   |   |   |   |   |   |
 | 2    | AdvancedAstrology               |   |   |   |   |   |   |   |   |
+
+## Feel free to contribute.
